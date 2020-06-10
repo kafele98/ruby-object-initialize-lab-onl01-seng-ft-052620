@@ -1,6 +1,6 @@
 class Person 
   def initialize(name)
-    @bane=name 
+    @name=name 
   end 
   
   def name=(name)
