@@ -12,4 +12,4 @@ class Person
   end 
 end 
 
-beyonce=person.new ("Beyonce")
+beyonce= Person.new ("Beyonce")
